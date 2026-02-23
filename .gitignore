@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But allow specific files
+!.gitignore
+!AGENTS.md
+!SOUL.md
+!TOOLS.md
+
+# Allow project-agent folder
+!project-agent/
+!project-agent/**
